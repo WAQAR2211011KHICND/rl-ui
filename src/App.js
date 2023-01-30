@@ -13,7 +13,6 @@ import {
 } from "react-router-dom";
 
 import CreateJobPage from './Components/Pages/JobPost/PostJob/CreateJobPage.js';
-import VerificationEmail from './Components/Pages/Login/VerificationEmail';
 import UpdateJobPage from './Components/Pages/JobPost/PostJob/UpdateJobPage.js';
 import PrivateRoute from './Components/PrivateRoute';
 
